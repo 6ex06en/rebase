@@ -1,5 +1,11 @@
 Init my first application!
 second changes
+
+third
+
+third fix
+
+third release
 master change
 master change2
 
